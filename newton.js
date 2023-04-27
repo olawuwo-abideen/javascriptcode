@@ -1,6 +1,5 @@
 // celsius to newton
 
-
 var celsius = 0;
 
 let newton = celsius * (33/100)
