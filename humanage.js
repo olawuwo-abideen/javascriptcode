@@ -10,6 +10,6 @@ laterYears *= 4;
 
 // adding earlyYears and laterYears
 var myAgeInDogYears = earlyYears + laterYears
-var myName = 'Olawuwo Abideen'.toLowerCase();
+var myName = 'Tbag'.toLowerCase();
 
 console.log (`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`)
