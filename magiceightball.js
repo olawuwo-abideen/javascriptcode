@@ -10,7 +10,7 @@ userName = ' ' ? console.log(`Hello, ${userName}!`) : console.log('Hello!');
 
 console.log(userQuestion)
 
-//Control flow
+//Control flow that takes randomNumber and then assigns to eightBall . 
 
 switch (randomNumber) {
   case 0:
