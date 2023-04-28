@@ -3,6 +3,8 @@ let raceNumber = Math.floor(Math.random() * 1000);
 const registeredEarly = false;
 const age = 19;
 
+//control flow
+
 if (registeredEarly && age > 18) {
   console.log (`Race will begin at 9:30 am and your race number is ${raceNumber}`);
 } 
