@@ -1,11 +1,16 @@
 var userName = 'Scofield';
 const userQuestion = 'Pick a number';
+
+//Genarate random number
 var randomNumber = Math.floor(Math.random() * 8);
 let eightBall = '';
+
 
 userName = ' ' ? console.log(`Hello, ${userName}!`) : console.log('Hello!');
 
 console.log(userQuestion)
+
+//Control flow
 
 switch (randomNumber) {
   case 0:
