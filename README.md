@@ -6,3 +6,4 @@
 - raceday.js -> A javascript code for race registration.
 - rps.js -> A javascript code for rock, paper scissors game
 - sdc.js -> A Sleep Debt Calculator
+- trainingdays.js -> A training day solution based on the sport selected
