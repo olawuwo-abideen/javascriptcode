@@ -10,3 +10,4 @@
 - secretmessage.js -> A secret message solution
 - whaletalk.js -> A whaletalk javascript solution
 - grammarchecker.js -> A grammarchecker javascript solution
+- mealmaker.js -> A mealmaker javascript solution
