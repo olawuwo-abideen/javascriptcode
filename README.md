@@ -9,3 +9,4 @@
 - trainingdays.js -> A training day solution based on the sport selected
 - secretmessage.js -> A secret message solution
 - whaletalk.js -> A whaletalk javascript solution
+- grammarchecker.js -> A grammarchecker javascript solution
